@@ -7,9 +7,9 @@ a graduação do curso de Análide de Projeto de Sistemas da Graduação de Aná
 ---
 *Alunos Desenvolvedores:* 
 
-Marcelo
+José Marcelo de Rezende
 
-Kalel Zorzanello
+Kalel Zorzanello Soares
 
 Mauro Cesar Yaga Junior
 
