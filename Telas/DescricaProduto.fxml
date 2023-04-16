@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <MenuBar>
+        <menus>
+          <Menu mnemonicParsing="false" text="Início">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Sair" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Gerenc.Produto">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Gerenc.Lote" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Descri.Produto" />
+        </menus>
+      </MenuBar>
+      <HBox prefHeight="376.0" prefWidth="600.0">
+         <children>
+            <Pane prefHeight="376.0" prefWidth="415.0" style="-fx-background-color: #151515;">
+               <children>
+                  <Label layoutX="14.0" layoutY="25.0" text="Código do produto" textFill="WHITE" />
+                  <Label layoutX="14.0" layoutY="88.0" text="Descrição" textFill="WHITE" />
+                  <TextArea layoutX="14.0" layoutY="115.0" prefHeight="247.0" prefWidth="371.0" />
+                  <ComboBox layoutX="15.0" layoutY="42.0" prefHeight="25.0" prefWidth="140.0" />
+               </children>
+            </Pane>
+            <ImageView fitHeight="375.0" fitWidth="199.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@img/©%202023%20MKM%20Systems.png" />
+               </image>
+            </ImageView>
+         </children>
+      </HBox>
+   </children>
+</VBox>
