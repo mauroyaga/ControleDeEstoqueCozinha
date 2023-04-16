@@ -30,14 +30,7 @@ Além disso, a implementação do sistema será realizada em conjunto com os usu
 
 [Link dos User Story no projeto](https://github.com/users/mauroyaga/projects/1)
 
-
-## Model
-<!--O bloco a baixo edita o código em sintaxe high light -->
-``` javascript 
-
-```
-
-## View
+## Telas
 ### Tela de Login
 
 
