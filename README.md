@@ -31,15 +31,29 @@ Além disso, a implementação do sistema será realizada em conjunto com os usu
 [Link dos User Story no projeto](https://github.com/users/mauroyaga/projects/1)
 
 ## Telas
-![Tela Login](https://github.com/mauroyaga/ControleDeEstoqueCozinha/issues/9#issue-1670084411)
 ### Tela de Login
+![Tela Login](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/TelaLogin.png)
+
+---
+
+### Tela Inicial
+![Tela Inicial](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/TelaInicial.png)
+
+---
+
+### Tela Gerenciamento de Item
+![Tela GerenciamentoDeItem](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/GerenciamentoDeItem.png)
+
+---
+### Tela Descrição de Item
+![Tela Descrição do Item](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/DescricaoItem.png)
 
 
 
 
-## Controler
 
-## Banco de Dados
+
+
 
 
 | 
