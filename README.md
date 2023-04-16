@@ -48,7 +48,10 @@ Além disso, a implementação do sistema será realizada em conjunto com os usu
 ### Tela Descrição de Item
 ![Tela Descrição do Item](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/DescricaoItem.png)
 
+---
 
+### Tela Gerenciamento de Lote
+![Tela Gerenciamento de Lote](https://github.com/mauroyaga/ControleDeEstoqueCozinha/blob/main/TelaGerenciamentoDeLote.png)
 
 
 
